@@ -1,0 +1,24 @@
+body {
+  background-color: #f8ede3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  background-color: #f8ede3;
+  width: 5%
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color:  #a2b29f;
+  font-family: fantasy;
+}
+
+h3 {
+  color:  #a2b29f;
+}
